@@ -28,9 +28,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-23 20:48:29</sys_created_on>
         <sys_id>6ead8e780f603200cd674f8ce1050ed1</sys_id>
-        <sys_mod_count>31</sys_mod_count>
+        <sys_mod_count>32</sys_mod_count>
         <sys_updated_by>btoole</sys_updated_by>
-        <sys_updated_on>2020-11-09 21:17:26</sys_updated_on>
+        <sys_updated_on>2020-11-09 21:24:43</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <u_repository/>
@@ -38,6 +38,6 @@
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.31</version>
+        <version>1.0.32</version>
     </sys_app>
 </record_update>
