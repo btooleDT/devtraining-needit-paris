@@ -31,6 +31,13 @@
         <order>100</order>
         <script><![CDATA[if(window != "undefined"){
 	var somevar = "something";
+	
+}
+
+//this change was made by some other instance (partnertest333) instead of dev	
+function helper() {
+	var i = 1000;
+	return i;
 }]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
@@ -42,7 +49,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>aa457c572f142410f2e15ff62799b6f2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Special Order</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -50,7 +57,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_ui_action_aa457c572f142410f2e15ff62799b6f2</sys_update_name>
         <sys_updated_by>btoole</sys_updated_by>
-        <sys_updated_on>2020-11-10 19:50:35</sys_updated_on>
+        <sys_updated_on>2020-11-10 20:16:27</sys_updated_on>
         <table>x_58872_needit_requests</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
