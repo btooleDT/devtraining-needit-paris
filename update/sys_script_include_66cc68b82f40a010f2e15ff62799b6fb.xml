@@ -24,7 +24,7 @@ soon.prototype = /** @lends x_58872_needit.module:sys_script_include.soon.protot
     initialize: function() {
 		gs.addInfoMessage("NeedIt Soon!");
 		//add a random change via github!!!
-		//and another
+	
     },
 	/**
 	 * Description
